@@ -1,0 +1,1 @@
+All the code and results presented in this repository are original work. The images and logs in the `pictures/` folder, including the input image, ground truth mask, predicted mask, and training/testing logs, are generated during the execution of the model and provide evidence of the results obtained during the experiments.
