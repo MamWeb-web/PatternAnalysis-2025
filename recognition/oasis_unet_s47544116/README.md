@@ -1,5 +1,3 @@
-Here is the English translation of your updated README:
-
 
 # Medical Image Segmentation Project
 
